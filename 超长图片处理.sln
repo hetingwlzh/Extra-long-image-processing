@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "超长图片处理", "超长图片处理.vbproj", "{5BC20312-12B8-483F-96EF-11EDD9AF84CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC20312-12B8-483F-96EF-11EDD9AF84CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC20312-12B8-483F-96EF-11EDD9AF84CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC20312-12B8-483F-96EF-11EDD9AF84CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC20312-12B8-483F-96EF-11EDD9AF84CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4391BB34-EF5E-47B4-A250-3690FB351ABE}
+	EndGlobalSection
+EndGlobal
